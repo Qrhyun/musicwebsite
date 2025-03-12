@@ -56,7 +56,7 @@ build/
 .m2/repository/
 
 # Sensitive configuration files
-src/main/resources/application.properties
+src/main/resources/application.properties.bak
 src/main/resources/application.yml
 src/main/resources/application-*.properties
 src/main/resources/application-*.yml
